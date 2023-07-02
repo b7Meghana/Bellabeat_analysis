@@ -40,8 +40,7 @@ bellabeat-data-analysis/
 ├── images/
 │   ├── <a href="https://github.com/b7Meghana/Bellabeat_analysis/blob/main/Activity.png">daily_activity.png</a>
 │   └── ...
-├── <a href="requirements.txt">requirements.txt</a>
-└── <a href="README.md">README.md</a>
+└── <a href="https://github.com/b7Meghana/Bellabeat_analysis/blob/main/README.md">README.md</a>
 </code></pre>
 
   <h2>Requirements</h2>
